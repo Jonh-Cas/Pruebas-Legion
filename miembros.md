@@ -10,7 +10,7 @@
 8. Catwoman
 9. Deathstroke
 10. Copperhead
-<!-- 11. Ra's al Ghul
+11. Ra's al Ghul
 12. Doctor Light
 13. Gorilla Grodd
 14. Captain Boomerang
@@ -22,4 +22,4 @@
 20. Lady Shiva
 21. Giganta
 22. Deadshot
-23. Scarecrow -->
+23. Scarecrow
